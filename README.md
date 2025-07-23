@@ -35,23 +35,17 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesmar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thalesmar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 📫 Contact Me
@@ -69,8 +63,8 @@ If you find my projects helpful, consider buying me a coffee!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/REPLACE_WITH_YOUR_GITHUB_USERNAME?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Thalesmar&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thalesmar?style=flat-square&color=blue" alt="Followers" />
 </div>
 
 <div align="center">
