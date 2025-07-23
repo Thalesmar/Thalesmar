@@ -57,7 +57,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Thalesmar&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ## 📫 Contact Me
@@ -75,8 +75,8 @@ If you find my projects helpful, consider buying me a coffee!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/REPLACE_WITH_YOUR_GITHUB_USERNAME?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Thalesmar&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thalesmar?style=flat-square&color=blue" alt="Followers" />
 </div>
 
 <div align="center">
