@@ -31,7 +31,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Thalesmar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thalesmar&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=Thalesmar&show_icons=true&theme=radical&count_private=true&hide_border=true)" />
 </div>
 
 <div align="center">
