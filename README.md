@@ -38,7 +38,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesmar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
