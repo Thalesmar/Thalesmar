@@ -39,7 +39,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Activity
