@@ -30,7 +30,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Thalesmar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
