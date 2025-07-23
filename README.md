@@ -54,12 +54,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thalesmar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thalesmar&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -70,7 +64,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 If you find my projects helpful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com/yourprofile](https://paypal.me/valtah654@gmail.com))
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/valtah654@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/valtah654@gmail.com)
 
 ---
 
