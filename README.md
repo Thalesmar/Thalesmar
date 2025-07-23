@@ -38,15 +38,15 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Thalesmar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesmar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -55,7 +55,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thalesmar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Achievements
