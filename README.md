@@ -70,7 +70,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 If you find my projects helpful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com/yourprofile](https://paypal.me/valtah654@gmail.com))
 
 ---
 
