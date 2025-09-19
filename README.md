@@ -1,32 +1,36 @@
 # Hi there! 👋
 
 ## About Me
-*6 hours of debugging can save you 5 minutes of reading documentation*
+*"6 hours of debugging can save you 5 minutes of reading documentation"*
 
-I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community.
+I'm a passionate software engineering student who loves creating innovative solutions and contributing to the open-source community. Always learning, always building, always growing! 🚀
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚡ Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🔧 Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Frameworks & Libraries
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Statistics
 
@@ -54,15 +58,21 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thalesmar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 📫 Contact Me
+## 🚀 What I'm Currently Learning
+- Advanced React patterns and state management
+- MongoDB aggregation pipelines and optimization
+- Microservices architecture with Docker
+- Cloud deployment strategies on AWS
+
+## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ineyass928@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-harroute-32323a355/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Thaleshr_)
 
-## ☕ Support My Work
+## ☕ Support My Journey
 
-If you find my projects helpful, consider buying me a coffee!
+If you find my projects helpful or want to support my learning journey, consider buying me a coffee!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/valtah654@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/valtah654@gmail.com)
@@ -75,5 +85,7 @@ If you find my projects helpful, consider buying me a coffee!
 </div>
 
 <div align="center">
-  <i>Thank you for visiting my profile! I hope you find it interesting and informative. I am excited to be a part of the developer community and I'm always looking for ways to improve my skills and knowledge.</i>
+  <i>✨ "Code is poetry written in logic" ✨</i>
+  <br><br>
+  <i>Thanks for stopping by! I'm always excited to collaborate on interesting projects and learn from fellow developers. Let's build something amazing together! 🌟</i>
 </div>
