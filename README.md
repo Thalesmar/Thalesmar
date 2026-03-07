@@ -1,9 +1,10 @@
 # Hi there! 👋
 
 ## About Me
-*"6 hours of debugging can save you 5 minutes of reading documentation"*
+*"6 hours of debugging can save you 5 minutes of reading documentation."*
 
-I'm a passionate software engineering student who loves creating innovative solutions and contributing to the open-source community. Always learning, always building, always growing! 🚀
+I'm a passionate software engineering student who enjoys building projects, learning new technologies, and contributing to the open-source community.  
+Always learning, always building, always improving! 🚀
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +29,6 @@ I'm a passionate software engineering student who loves creating innovative solu
 
 ### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -59,10 +59,10 @@ I'm a passionate software engineering student who loves creating innovative solu
 </div>
 
 ## 🚀 What I'm Currently Learning
-- Advanced React patterns and state management
-- MongoDB aggregation pipelines and optimization
-- Microservices architecture with Docker
-- Cloud deployment strategies on AWS
+- Backend development with Node.js and Express
+- TypeScript for scalable applications
+- MongoDB and database design
+- Docker basics for development environments
 
 ## 📫 Let's Connect!
 
@@ -72,10 +72,9 @@ I'm a passionate software engineering student who loves creating innovative solu
 
 ## ☕ Support My Journey
 
-If you find my projects helpful or want to support my learning journey, consider buying me a coffee!
+If you find my projects helpful or want to support my learning journey, you can support me here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/valtah654@gmail.com)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/valtah654@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support%20Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/valtah654)
 
 ---
 
@@ -85,7 +84,5 @@ If you find my projects helpful or want to support my learning journey, consider
 </div>
 
 <div align="center">
-  <i>✨ "Code is poetry written in logic" ✨</i>
-  <br><br>
-  <i>Thanks for stopping by! I'm always excited to collaborate on interesting projects and learn from fellow developers. Let's build something amazing together! 🌟</i>
+  <i>✨ "Code is poetry written in logic." ✨</i>
 </div>
