@@ -1,10 +1,21 @@
 # Hi there! 👋
 
-"6 hours of debugging can save you 5 minutes of reading documentation."
+- 🔭 I'm currently working on **fullstack**
 
-I'm a self-taught developer who is still learning and building my foundations in software engineering.
-I've worked on small projects using HTML, CSS, and JavaScript, and I'm currently exploring backend development and databases.
+- 🌱 I'm currently learning **node.js and express and sql **
 
+- 🤝 I'm looking for help with **learning system design**
+
+- 💬 Ask me about **web developement**
+
+- 📫 How to reach me **harrouteyassine576@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/Thalesmar](https://github.com/Thalesmar)**
+
+- 📝 I regularly write articles on **[https://thales-2y8.pages.dev](https://thales-2y8.pages.dev)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1B8OBeKVnbMF2zmSXW6gMTJeDwzS3Oxma/view?usp=drive_link](https://drive.google.com/file/d/1B8OBeKVnbMF2zmSXW6gMTJeDwzS3Oxma/view?usp=drive_link)**
+- 
 I'm not an expert yet, but I enjoy solving problems, learning new things, and pushing myself to improve every day.
 
 ## 🛠️ Tech Stack
