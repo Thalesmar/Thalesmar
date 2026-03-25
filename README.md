@@ -1,10 +1,11 @@
 # Hi there! 👋
 
-## About Me
-*"6 hours of debugging can save you 5 minutes of reading documentation."*
+"6 hours of debugging can save you 5 minutes of reading documentation."
 
-I'm a passionate software engineering student who enjoys building projects, learning new technologies, and contributing to the open-source community.  
-Always learning, always building, always improving! 🚀
+I'm a self-taught developer who is still learning and building my foundations in software engineering.
+I've worked on small projects using HTML, CSS, and JavaScript, and I'm currently exploring backend development and databases.
+
+I'm not an expert yet, but I enjoy solving problems, learning new things, and pushing myself to improve every day.
 
 ## 🛠️ Tech Stack
 
@@ -25,6 +26,8 @@ Always learning, always building, always improving! 🚀
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ DevOps & Tools
