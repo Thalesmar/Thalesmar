@@ -46,7 +46,7 @@ Always learning, always building, always improving! 🚀
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Thalesmar&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -74,7 +74,7 @@ Always learning, always building, always improving! 🚀
 
 If you find my projects helpful or want to support my learning journey, you can support me here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Support%20Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/valtah654)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support%20Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://paypal.me/valtah654)
 
 ---
 
