@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on **[https://thales-2y8.pages.dev](https://thales-2y8.pages.dev)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1B8OBeKVnbMF2zmSXW6gMTJeDwzS3Oxma/view?usp=drive_link](https://drive.google.com/file/d/1B8OBeKVnbMF2zmSXW6gMTJeDwzS3Oxma/view?usp=drive_link)**
-- 
+
 I'm not an expert yet, but I enjoy solving problems, learning new things, and pushing myself to improve every day.
 
 ## 🛠️ Tech Stack
